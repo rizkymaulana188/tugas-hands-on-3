@@ -1,0 +1,17 @@
+kolom,tipe,n_missing,n_unik,keterangan
+customer_id,object,0,2500,ID pelanggan (kunci)
+usia,Int64,55,44,Usia pemohon (tahun)
+jenis_kelamin,category,0,3,Jenis kelamin (sudah dinormalkan)
+pendidikan,category,0,5,Pendidikan terakhir
+status_pekerjaan,category,0,6,Status pekerjaan
+pendapatan_tahunan_idr,float64,59,2441,Pendapatan tahunan (Rp)
+jumlah_pinjaman_idr,int64,0,2500,Jumlah pinjaman (Rp)
+tenor_bulan,int64,0,5,Tenor pinjaman (bulan)
+tujuan_pinjaman,category,0,5,Tujuan pinjaman
+credit_score,Int64,79,540,Skor kredit (300-850); nilai tidak valid diubah jadi kosong
+jumlah_pinjaman_aktif,int64,0,6,Jumlah pinjaman yang sedang berjalan
+rasio_utang_pendapatan,float64,110,86,Rasio utang terhadap pendapatan
+riwayat_telat_bayar,Int64,74,13,Jumlah riwayat keterlambatan bayar
+nilai_agunan_idr,float64,362,2138,Nilai agunan (Rp)
+status_kredit,category,0,2,TARGET: Default / Tidak Default
+nilai_agunan_idr_kosong,int64,0,2,Flag 1 jika nilai agunan kosong pada data asli
