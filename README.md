@@ -1,8 +1,6 @@
-Nama : Rizky Maulana
-Kelas : RM 24A
-Nim : 24552011345
-
-
+Nama:  Rizky Maulana
+Kelas:  RM 24A
+Nim:  24552011345
 # Tugas Hands-On 3: Pandas Lanjutan
 
 **Kasus dipilih:** 01 – Credit Risk Prediction (Fintech), `case1_credit_risk.csv`, 2.500 baris × 15 kolom, klasifikasi biner (target `status_kredit`).
