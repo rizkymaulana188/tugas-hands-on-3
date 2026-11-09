@@ -1,6 +1,7 @@
 Nama : Rizky Maulana
-Kelas : RM 24 A
-NIM : 24552011345
+Kelas : RM 24A
+Nim : 24552011345
+
 
 # Tugas Hands-On 3: Pandas Lanjutan
 
